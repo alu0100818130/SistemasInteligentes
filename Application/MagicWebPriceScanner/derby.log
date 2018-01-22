@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Jan 22 02:37:01 GMT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0161-1bb9-ddef-000000b74688 
+on database directory C:\Users\Perry\Desktop\eclipse-workspace\MagicWebPriceScanner\DB\Derby.DB  with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+Loaded from file:/C:/Users/Perry/Desktop/eclipse-workspace/MagicWebPriceScanner/src/librerias/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Perry\Desktop\eclipse-workspace\MagicWebPriceScanner
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
